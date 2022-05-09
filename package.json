@@ -1,0 +1,22 @@
+{
+  "name": "memotest2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mainimi/Memotest2022.git"
+  },
+  "author": "Naiimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mainimi/Memotest2022/issues"
+  },
+  "homepage": "https://github.com/Mainimi/Memotest2022#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

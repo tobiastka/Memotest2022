@@ -1,0 +1,60 @@
+.rojo{
+    background-color: red;
+    opacity: 0;
+    height: 25vh;
+    width: 25vh;
+
+}
+
+.azul{
+    background-color: blue;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+.gris{
+    background-color: grey;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+.amarillo{
+    background-color: yellow;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+.verde{
+    background-color: greenyellow;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+.naranja{
+    background-color: orange;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+.violeta{
+    background-color: violet;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+.marron{
+    background-color: brown;
+    height: 25vh;
+    width: 25vh;
+    opacity: 0;
+}
+
+#display-resultado{
+    display: none;
+}
